@@ -1,5 +1,5 @@
 # PlaybackPinball
-A Windows 95-XP Pinball simulator using only MP3 &amp; OGG files!
+A Windows 95-XP Pinball simulator using only MP3 &amp; WAV files!
 
 Requirements:
 - An USB stick or microSD/TF card
